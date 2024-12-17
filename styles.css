@@ -97,3 +97,27 @@ main{
     text-decoration: none;
   }
 }
+
+@media screen and (width > 375px) {
+  main{
+    width: 384px;
+
+    & article {
+      & span, .date {
+        font-size: 14px;
+      }
+
+      & h2{
+        font-size: 24px;
+      }
+
+      & .content{
+        font-size: 16px;
+      }
+    }
+  }
+
+  .attribution{
+    font-size: 14px;
+  }
+}
