@@ -25,8 +25,8 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/soldochris/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://soldochris.github.io/blog-preview-card/)
+- Solution URL: [github.com/soldochris/blog-preview-card](https://github.com/soldochris/blog-preview-card)
+- Live Site URL: [soldochris.github.io/blog-preview-card](https://soldochris.github.io/blog-preview-card/)
 
 ## My process
 
