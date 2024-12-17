@@ -5,7 +5,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -17,20 +16,17 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
+This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Screenshot](./desktop.png)
+![Mobile Screenshot](./mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/soldochris/blog-preview-card)
+- Live Site URL: [Add live site URL here](https://soldochris.github.io/blog-preview-card/)
 
 ## My process
 
@@ -44,15 +40,15 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I recall how to use flex box for the layout and I feel more confortable working with it.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [CSS moderno: Media Queries Range Syntax](https://dev.to/duxtech/media-queries-range-syntax-1o2l) - This helped me to recall the modern way to write media queries using the range syntax. It was very useful because it is clearly written.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [christiansoldevilla.tech](https://christiansoldevilla.tech/?i=1)
+- Frontend Mentor - [@soldochris](https://www.frontendmentor.io/profile/soldochris)
+- LinkedIn - [/christian-soldevilla](https://www.linkedin.com/in/christian-soldevilla/)
 
