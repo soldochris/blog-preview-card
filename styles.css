@@ -86,3 +86,14 @@ main{
   }
 
 }
+
+.attribution{
+  font-size: 12px;
+  text-align: center;
+  margin: 0;
+  color: var(--Gray-500);
+  & a{
+    color: var(--Gray-950);
+    text-decoration: none;
+  }
+}
